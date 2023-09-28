@@ -31,6 +31,9 @@ ul{
     color: white;
     height: 60px;
 }
+.branding{
+    color: orange;
+}
 .navbar a{
     text-decoration: none;
     color: #fff;
